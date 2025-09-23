@@ -1,3 +1,8 @@
+
+<img width="2250" height="4000" alt="waifu" src="https://github.com/user-attachments/assets/3cba988b-24f2-4e5c-a8ef-9b87ad64633f" />
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aamaanaa"><img src="https://github-readme-stats.vercel.app/api?username=aamaanaa&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="aamaanaa's GitHub stats" /></a>
