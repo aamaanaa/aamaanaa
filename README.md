@@ -1,5 +1,5 @@
 
-<img width="2250" height="4000" alt="waifu" src="https://github.com/user-attachments/assets/3cba988b-24f2-4e5c-a8ef-9b87ad64633f" />
+<img height="1px" width="1px" alt="waifu" src="/img.jpg" />
 
 
 
