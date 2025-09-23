@@ -1,5 +1,5 @@
 
-<img height="1px" width="1px" alt="waifu" src="/img.jpg" />
+<img height="1px" width="1px" style="opacity:0;" alt="waifu" src="/img.jpg" />
 
 
 
