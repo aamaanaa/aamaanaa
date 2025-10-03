@@ -1,10 +1,6 @@
+## I DID IT 
 
-<img height="1px" width="1px" style="opacity:0;" alt="waifu" src="/img.jpg" />
+My first DMCA take down:
+- https://github.com/github/dmca/blob/master/2025/10/2025-10-02-jetbrains-8.md
 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/aamaanaa"><img src="https://github-readme-stats.vercel.app/api?username=aamaanaa&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="aamaanaa's GitHub stats" /></a>
-
-<a href="https://github.com/aamaanaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamaanaa&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+(can they stop selfhosted git instance?)
