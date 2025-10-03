@@ -11,3 +11,6 @@ If u have questions, or some repo got taken down, have issues with me, want to a
 
 - Download session: getsession[.]org/download
 - add my id: `05da8e3df79213ed3bb35b8fff4fe5cddaadfe95674f33005b5af441a651627d55`
+
+In case you want to send me over some kebab and coffee, consider sending some `BTC`:
+- `bc1q4ruc4kyrrgls9q9q83xc7v7wlzr92wdxz0h7lg`
