@@ -5,4 +5,9 @@ My first DMCA take down:
 
 Apparantly, changing one line of text and changing one letter is a crime. JetBrains, really? u do not get to decide what instructions my CPU runs. Imagine been jailed for changing this...
 
-(can they stop selfhosted git instance?)
+i have a whole host of other "funny tools" but i supose i need to self host that then...
+
+If u have questions, or some repo got taken down, have issues with me, want to acuse me, or just want to send memes:
+
+- Download session: getsession[.]org/download
+- add my id: `05da8e3df79213ed3bb35b8fff4fe5cddaadfe95674f33005b5af441a651627d55`
