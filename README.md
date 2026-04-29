@@ -20,3 +20,4 @@ Most do not have a license file, do whatever you want with it. I do not care.
 - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 - https://en.wikipedia.org/wiki/Scunthorpe_problem
 - https://github.com/systemd/systemd/pull/40954
+- https://en.wikipedia.org/wiki/Superiority_complex
